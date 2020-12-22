@@ -10,7 +10,7 @@ Generar la conexión a la BD
 define("HOST", "localhost");
 define("USER", "root");
 define("PASSWORD", "");
-define("DB", "m07");
+define("DB", "m071");
 define("PORT", "3306");
     
 // creamos la instancia de la conexión
